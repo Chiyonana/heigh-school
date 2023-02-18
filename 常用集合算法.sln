@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "常用集合算法", "常用集合算法\常用集合算法.vcxproj", "{83EF3CB0-420A-4131-A917-F5FA5AD349BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83EF3CB0-420A-4131-A917-F5FA5AD349BF}.Debug|x64.ActiveCfg = Debug|x64
+		{83EF3CB0-420A-4131-A917-F5FA5AD349BF}.Debug|x64.Build.0 = Debug|x64
+		{83EF3CB0-420A-4131-A917-F5FA5AD349BF}.Debug|x86.ActiveCfg = Debug|Win32
+		{83EF3CB0-420A-4131-A917-F5FA5AD349BF}.Debug|x86.Build.0 = Debug|Win32
+		{83EF3CB0-420A-4131-A917-F5FA5AD349BF}.Release|x64.ActiveCfg = Release|x64
+		{83EF3CB0-420A-4131-A917-F5FA5AD349BF}.Release|x64.Build.0 = Release|x64
+		{83EF3CB0-420A-4131-A917-F5FA5AD349BF}.Release|x86.ActiveCfg = Release|Win32
+		{83EF3CB0-420A-4131-A917-F5FA5AD349BF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E9E4B80-2065-4EC7-9005-B8BF5F42852E}
+	EndGlobalSection
+EndGlobal
